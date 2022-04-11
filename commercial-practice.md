@@ -12,8 +12,6 @@ Assume active runway is 32.
 
 ## Scenario 2
 
-Takeoff on RWY 32
-
 * Maintain current heading and altitude
 * Verify HI, AI
 * Landing configuration...
