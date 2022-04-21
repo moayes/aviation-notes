@@ -99,6 +99,7 @@ For non-standard, keep the right hand down!
 * AC 61-98 [GA pilots, flight instructors complying with the flight reviews required 14CFR61](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98D.pdf)
 * [Commercial Pilot Maneuver Cards](https://www.av8flight.com/wp-content/uploads/2020/12/Commercial-Pilot-Maneuver-Cards-opt.pdf)
 * [AC 00-45 Aviation Weather Services](https://www.faa.gov/documentlibrary/media/advisory_circular/ac_00-45h.pdf)
+* [Flying by the numbers](https://www.faa.gov/news/safety_briefing/2010/media/MarApr2010-FlyingByTheNumbers.pdf)
 
 ### Engines
 
