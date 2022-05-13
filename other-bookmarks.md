@@ -13,7 +13,7 @@ Pricing sounds right . 90,000+50,000+10,000, +20,000 plus the Eng monitoring stu
 
 ### Rust
 
-Signs of rust and internal corrosion under the paint. This makes the airplane un-airworthy. These pictures are from a Bonanze. It's possible to get a new set of skins from Textron. At this time (April 2022) they’re about 20K with shipping and can take four or five months.
+Signs of rust and internal corrosion under the paint. This makes the airplane un-airworthy. These pictures are from a Bonanze. It's possible to get a new set of skins from Textron. At this time (April 2022) they’re about 20K with shipping and can take four or five months. Filiform corrosion or painted over at the previous shop. Looks like some rivet heads are threatening to pull through the skin as well- not a good sign.
 
 * [image 1](/images/278738999_5563570163656606_8023491420799681575_n.jpg)
 * [image 2](/images/279081577_5563569986989957_4080876544514811960_n.jpg)
@@ -30,7 +30,14 @@ Signs of rust and internal corrosion under the paint. This makes the airplane un
 
 ### Cost
 
-* [Sample maintance cost of a Bonanza](/images/279175516_10158555527077791_820165760032903506_n.jpg)
+* [Sample maintenance cost of a Bonanza](/images/279175516_10158555527077791_820165760032903506_n.jpg)
+
+### New to Bonanza
+
+1. Join American Bonanza Society and access their expertise on all things Bonanza. They are the experts.
+2. Go to [Continental Technical Publications](https://www.continental.aero/support/maintenance-manuals.aspx?fbclid=IwAR0IiVE-A4sH07sRAfhDZb9m-8RaHi6PT0GVUGZ1UM6KADBIgjxaEdJHaTo) and download the Operator's Manual for your engine and read it. Many of your questions are answered in that document. Also be sure to access current Service Bulletins for any operating limitations.
+3. Get a Bonanza Continental Horsepower And Fuel Flow Computer [like this one](https://www.ebay.com/itm/265483959322). They are great for setting percent power based on ambient conditions.
+
 
 
 ## Companies
@@ -50,3 +57,16 @@ Signs of rust and internal corrosion under the paint. This makes the airplane un
   * Blackwell Aviation Inc. is a FBO located at the Rostraver Airport (KFWQ) in Southwestern Pennsylvania, 20 miles south of Pittsburgh.  Our facilities are located in two corporate hangers at the west end of the airport.
   * Our primary mission is the maintenance, modification, repair, and overhaul of piston powered Beechcraft, focusing on T-34, Bonanza, Debonair, Baron, and Travel Air models.
   * In the aviation business since 1975, we have received 30 national awards in the restoration of various aircraft.  We provide complete rebuilding capabilities from award winning sheet metal work all the way to complex avionics installations.  We are also distributors for various lines of products supporting the aviation industry.
+* [A/C Services LLC](https://www.ftaaviation.com)
+  * A Modern 134a Air Conditioning System
+  * Baron G58, 58, & 55 series
+  * Bonanza G36, A36,A36TC, B36TC, V35, F33A
+  * 14V Bonanzas with a IO-520 or IO-550 Engine
+  * Tip Tanks
+  * Windshields & Windows
+  * G&D Window Inserts
+  * LED Landing & Taxi Lights
+  * Extended Baggage Compartment
+  * We can also make GENERAL REPAIRS or complete an ANNUAL INSPECTION
+* [Affordable Aviation](https://www.affordable-aviation.com)
+  * Stuff for your airplane, like cowl plugs, headrests, etc.
