@@ -38,8 +38,6 @@ Signs of rust and internal corrosion under the paint. This makes the airplane un
 2. Go to [Continental Technical Publications](https://www.continental.aero/support/maintenance-manuals.aspx?fbclid=IwAR0IiVE-A4sH07sRAfhDZb9m-8RaHi6PT0GVUGZ1UM6KADBIgjxaEdJHaTo) and download the Operator's Manual for your engine and read it. Many of your questions are answered in that document. Also be sure to access current Service Bulletins for any operating limitations.
 3. Get a Bonanza Continental Horsepower And Fuel Flow Computer [like this one](https://www.ebay.com/itm/265483959322). They are great for setting percent power based on ambient conditions.
 
-
-
 ## Companies
 
 * [General aviation trends in 12 charts - Air Facts Journal](https://airfactsjournal.com/2017/09/general-aviation-trends-12-charts/)

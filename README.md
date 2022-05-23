@@ -8,9 +8,9 @@ A space to jot down ideas, useful tips and bookmarks.
 
 * **Basic Empty Weight (GAMA)**: the standard empty weight plus the weight of optional and special equipment that have been installed.
 * **Standard Empty Weight (GAMA)**: aircraft weight that consists of the airframe, engines, and all items of operating equipment that have fixed locations and are permanently installed in the aircraft, including fixed ballast, hydraulic fluid, unusable fuel, and full engine oil.
-* **Licensed Empty Weight (Pre-GAMA)**: the empty weight that consists of the airframe, engine(s), unusable fuel, and undrainable oil plus standard and optional equipment as specified in the equipment list. Some manufacturers used this term prior to GAMA standardization.
+* **Licensed Empty Weight (Pre-GAMA)**: the empty weight that consists of the airframe, engine(s), unusable fuel, and un-drain-able oil plus standard and optional equipment as specified in the equipment list. Some manufacturers used this term prior to GAMA standardization.
 * **Payload (GAMA)**: the weight of occupants, cargo, and baggage.
-* **Useful Load**: the weight of the pilot, copilot, passengers, baggage, usable fuel, and drainable oil. It is the basic empty weight subtracted from the maximum allowable gross weight. This term applies to general aviation (GA) aircraft only.
+* **Useful Load**: the weight of the pilot, copilot, passengers, baggage, usable fuel, and drain-able oil. It is the basic empty weight subtracted from the maximum allowable gross weight. This term applies to general aviation (GA) aircraft only.
 
 [FAA Reference](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/12_phak_ch10.pdf)
 
