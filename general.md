@@ -1,15 +1,5 @@
 # Interesting Aircraft
 
-## Beech Bonanza
-
-* [Bonanzas - A Complete Guide](http://www.airbum.com/articles/ArticleBonanzaGuide.html)
-* [Beechcraft Bonanza 36 (Aviation Consumer)](https://www.aviationconsumer.com/used-aircraft-guide/beech-bonanza-36-2/)
-* [Piper Turbo Saratoga](https://www.aopa.org/go-fly/aircraft-and-ownership/aircraft-fact-sheets/piper-turbo-saratoga)
-* [Mooney vs. Bonanza](https://www.aviationconsumer.com/aircraftreviews/mooney-versus-bonanza/)
-* A Performance Bonanza - Hitting the Holy Grail, Go Faster, Carry More, Burn Less
-  * [AOPA](https://www.aopa.org/news-and-media/all-news/2005/january/pilot/a-performance-bonanza)
-  * [Print (PDF)](https://aeroresourcesinc.com/uploads/200501-1980-89%20Beech%20Bonanza%20B36TC%20-%20Modified.pdf)
-
 ## Maintenance
 
 * [Sludge: Why change oil?](https://blog.aopa.org/aopa/tag/sludge/)
@@ -39,6 +29,7 @@
 * [Buy or Walk Away](https://resources.savvyaviation.com/wp-content/uploads/articles_aopa/AOPA_2017-03_buy-or-walk.pdf)
   * Discussion on both engine and airframe low-time vs. high time.
 * [ABS Magazine, March 2007](https://www.yumpu.com/en/document/read/30961499/march-2007-american-bonanza-society)
+* [Jason Blair](https://jasonblair.net/)
 
 ## Insurance Tips
 
@@ -54,3 +45,7 @@
 ## Continental
 
 * [550 AvGas Engine Series](https://www.continental.aero/uploadedFiles/Content/Engines/Gasoline_engines/550AvGas-SpecSheet.pdf)
+
+## Operating Costs
+
+* [Personal Aircraft Operating Cost Calculator](https://jasonblair.net/?page_id=1533)

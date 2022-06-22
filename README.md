@@ -63,6 +63,7 @@ For non-standard, keep the right hand down!
   * should read 180
 * [Takeoff Min, Part 91](https://www.thinkaviation.net/standard-takeoff-minimums/)
   * 1000 3sm
+  * [What are standard takeoff minimums?](https://www.thinkaviation.net/standard-takeoff-minimums/)
 * [IFR in Class G](https://www.ifr-magazine.com/charts-plates/on-your-own-in-class-g/)
   * An appropriately rated, current pilot, in an appropriately equipped aircraft, may fly IFR in class G airspace without either a clearance or a flight plan.
   * When class G is overlaid by controlled airspace, like class E, the pilot will need a clearance before entering controlled airspace.
@@ -100,7 +101,21 @@ For non-standard, keep the right hand down!
 * [Commercial Pilot Maneuver Cards](https://www.av8flight.com/wp-content/uploads/2020/12/Commercial-Pilot-Maneuver-Cards-opt.pdf)
 * [AC 00-45 Aviation Weather Services](https://www.faa.gov/documentlibrary/media/advisory_circular/ac_00-45h.pdf)
 * [Flying by the numbers](https://www.faa.gov/news/safety_briefing/2010/media/MarApr2010-FlyingByTheNumbers.pdf)
+* [Private and Commercial Standard Operating Procedures](https://aste.usu.edu/files/SOP_private_commercial.PDF)
 
 ### Engines
 
 * [Cessna Skyhawk C172 Fuel System](http://www.atlantapilot.com/aircraft/172/Cessna%20Fuel%20System.jpg)
+
+### Weather Products
+
+* [FICON](https://www.aopa.org/news-and-media/all-news/2016/december/pilot/briefing-rules-and-regulations)
+  * FICONs will contain percentages within the NOTAM for each third of the runway, along with the contaminants on that runway. In the text of the FICON, the thirds are separated by commas.
+* [Is Flying Through Snow Considered 'Known Icing'?](https://www.boldmethod.com/learn-to-fly/weather/is-flying-through-snow-considered-known-icing-conditions-in-flight-winter/)
+* [Ice Is Not Nice](https://www.ifr-magazine.com/weather/ice-is-not-nice/)
+
+### Oxygen
+
+* [Staying Alive: What Oxygen System You Need When Flying Above 12,500'](https://www.boldmethod.com/learn-to-fly/aircraft-systems/oxygen-systems/)
+  * If you're flying a pressurized aircraft, you won't normally need to wear a mask - but you'll carry one for emergencies.
+
