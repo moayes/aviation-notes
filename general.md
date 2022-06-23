@@ -49,3 +49,7 @@
 ## Operating Costs
 
 * [Personal Aircraft Operating Cost Calculator](https://jasonblair.net/?page_id=1533)
+
+## Gyros
+
+* [Gyro Instrument Pneumatic Systems](https://aea.net/AvionicsNews/ANArchives/GyrosMay05.pdf)
