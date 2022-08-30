@@ -118,4 +118,3 @@ For non-standard, keep the right hand down!
 
 * [Staying Alive: What Oxygen System You Need When Flying Above 12,500'](https://www.boldmethod.com/learn-to-fly/aircraft-systems/oxygen-systems/)
   * If you're flying a pressurized aircraft, you won't normally need to wear a mask - but you'll carry one for emergencies.
-

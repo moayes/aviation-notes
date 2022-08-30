@@ -8,6 +8,12 @@
   * [AOPA](https://www.aopa.org/news-and-media/all-news/2005/january/pilot/a-performance-bonanza)
   * [Print (PDF)](https://aeroresourcesinc.com/uploads/200501-1980-89%20Beech%20Bonanza%20B36TC%20-%20Modified.pdf)
 
+## Special Editions
+
+* [AOPA - Jaguar Special Edition B36TC Bonanza](https://www.aopa.org/news-and-media/all-news/2000/january/pilot/jaguar-special-edition-b36tc-bonanza)
+* [1999 Beechcraft Bonanza A36 Jaguar Special Edition](https://norfolkaviation.com/listings/1999-beechcraft-bonanza-a36-jaguar-special-edition/)
+* [Is the Beechcraft Bonanza Jaguar edition different from any other A36?](https://aviation.stackexchange.com/questions/34306/is-the-beechcraft-bonanza-jaguar-edition-different-from-any-other-a36)
+
 ## Turbo Upgrade
 
 **2022-04-22**: Got a quote from Tornado Alley for my 1997 Bonanza A36 already has IO-550 coming up on TBO....I appreciate any feedback on the pricing on if I should move forward with it.
