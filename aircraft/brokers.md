@@ -1,10 +1,12 @@
 # Brokers
 
+* [Aero Trader](https://www.aerotrader.com/aircraft-for-sale)
 * [Aero Transaction](https://www.aerotransaction.com)
 * [AirMart](http://airmart.com/aircraft-for-sale-piston)
 * [Aircraft Associates](https://aircraftassociates-com.webnode.page)
 * [Aircraft Associates](https://www.aircraftassociates.com)
 * [Aircraft Shopper Online](https://www.aso.com)
+* [American Aircraft Sales](https://www.aso.com/seller/316/main.htm)
 * [Boomerang Air](https://boomerangair.net/inventory)
 * [Carolina Aircraft](https://www.carolinaaircraft.com)
 * [Controller](https://www.controller.com)
