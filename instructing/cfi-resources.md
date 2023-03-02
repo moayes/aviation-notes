@@ -57,3 +57,26 @@
 * Unable to discuss the required equipment of 91.205 and 91.213
 
 [Source](http://www.cfidarren.com/r-flightreview.htm)
+
+## NAFI
+
+MentorLIVE is a free preview of the many benefits of being a National Association of Flight Instructors member. While MentorLIVE is a NAFI community service open to all aviators, most NAFI advantages are available only to NAFI members. For example:
+NAFI members get a 33% discount on ForeFlight — a savings of up to $118 a year, more than twice the cost of a NAFI membership.
+Other NAFI member-only savings include free courses from King Schools; Jeppesen training and subscription discounts; discounts from Bose, Lightspeed, Sporty's, CloudAhoy, ASA, Office Depot, and Avis/Budget; and other travel discounts.
+
+You don’t have to be a CFI to join NAFI. You only have to want to become a better pilot.
+
+Member-only deals are just the beginning of the advantages of joining NAFI:
+NAFI Professional Development Program: 30 free courses designed to make you a better CFI and enhance your career
+Educational and entertaining content, including our regular MentorLIVE broadcasts, More Right Rudder podcast, NAFI NOTAMS blog, and the NAFI YouTube channel featuring the NAFI Briefing Room and the NAFI 10 Question Challenge
+Free Mentor magazine and eMentor newsletter
+Networking opportunities through NAFI Special Interest Groups and association events
+Savings on professional insurance coverage with the NAFI CFI Insurance Program, underwritten by Avemco Insurance Company
+Job postings
+
+﻿Join NAFI today and save 10% on your first year’s membership dues. Just add the code MentorLIVE to the application form. Click here to join.
+
+For more information on the many reasons to rejoin, visit www.nafinet.org/benefits or call 866-806-6156.
+
+If you’ve already joined NAFI, thank you! If not, come on board and be part of the power of thousands of flight instructors.
+
